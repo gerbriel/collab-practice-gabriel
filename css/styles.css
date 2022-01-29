@@ -1,0 +1,10 @@
+.hero {
+    height: 400px;
+    background-image: url(https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.container{
+    background-color: blue;
+    height: 360px;
+    margin: 20px;
+    width: 25%;
+}
